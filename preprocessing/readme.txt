@@ -1,3 +1,4 @@
+<h2>Steps for the working</h2>
 1) Create new text files from cpc files and jpeg files
 2) Class distribution and label plotting for verification of labels from marine biologists
 3) Do Data Augmentation to balance the heavy class imbalance
