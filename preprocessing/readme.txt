@@ -25,11 +25,4 @@
 - **Leveraging Minimal Annotations**: Develop a model that classifies coral species with minimal manual annotations.
 - **Efficient Learning and Improved Performance**: Reduce dependency on extensive labeled datasets by utilizing unlabeled data structure.
 
-## Contribution
-
-Contributors are welcome to join the project. Whether you're interested in enhancing the data processing pipeline, improving the model architecture, or expanding the dataset, your input is valuable. Please see the [contributing guidelines](CONTRIBUTING.md) for more information on getting started.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
